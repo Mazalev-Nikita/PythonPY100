@@ -1,3 +1,6 @@
 if __name__ == "__main__":
-    # Write your solution here
-    pass
+
+    def sum_sq(n, m):
+        return [i ** 2 for i in (range(n, m+1))]
+
+    print(sum_sq(2, 4))
