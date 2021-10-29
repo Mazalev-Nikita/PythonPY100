@@ -11,8 +11,8 @@ if __name__ == "__main__":
     print(list_[::2])
     print(list_[1::2])
     print(list_[1] - list_[-1])
-    index_1 = list[1]
-    min_index = []
+    print()
+
 
         # num1 = 12345
         # print(list(str(num1)))

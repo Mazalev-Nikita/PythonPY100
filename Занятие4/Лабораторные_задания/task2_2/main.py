@@ -1,3 +1,3 @@
 if __name__ == "__main__":
-    # Write your solution here
-    pass
+    num1 = int(input("Введите число: "))
+    list_ = [int(i) for i in str(num1)]
